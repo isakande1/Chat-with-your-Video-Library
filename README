@@ -1,2 +1,5 @@
+I have included a video titled "demov_ideo.mp4", it is on the root folder. This video is just to prove that no cheating were done, and the output videos are solely from the execution of my RAG implementation. 
 
-The vidoes that answers the 3 questions are under the folder "output_videos". The videos name matches the questions it is answering. And the code is inside "project.ipynb"
+You can refer to the notebook, there is a details description of every milestone and the code.
+
+The vidoes that answers the 3 questions are under the folder "output_videos". The videos name matches the questions it is answering. And RAG implementation is inside "project.ipynb"
